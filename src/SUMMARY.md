@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [معرفی زیگ](./001_Introducing_Zig.md)
