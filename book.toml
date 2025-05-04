@@ -1,6 +1,6 @@
 [book]
 authors = ["Ali Aryani"]
-language = "en"
+language = "fa"
 multilingual = false
 src = "src"
 title = "Zig Book - Persian Edition"
