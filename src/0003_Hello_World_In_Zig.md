@@ -7,9 +7,11 @@ mkdir hello_world
 cd hello_world
 zig init
 ```
-> info: created build.zig<br>
-> info: created build.zig.zon<br>
-> info: created src/main.zig<br>
-> info: created src/root.zig<br>
-> info: see `zig build --help` for a menu of options
+```result
+info: created build.zig
+info: created build.zig.zon
+info: created src/main.zig
+info: created src/root.zig
+info: see `zig build --help` for a menu of options
+```
 
