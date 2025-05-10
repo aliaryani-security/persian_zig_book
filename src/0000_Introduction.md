@@ -4,4 +4,10 @@
 <br><br>
 اگر روزی خواستی ازم حمایت کنی ، میتونی صفحه [اینستاگرامم](https://instagram.com/aliaryani.security) رو دنبال کنی ❤️
 <br><br>
+در ضمن  میتونی از طریق لینک دکمه برام قهوه بخری و ازم حمایت مالی کنی ☕
+<br>
+
+<a href="https://daramet.com/aliaryani_sec" target="_black"><img src="./images/coffee.png" alt="خرید قهوه" style="width:30%;height:auto;display:block;margin-left:auto;"></a>
+
 کتاب رو بخون ، و از یادگیری لذت ببر 🥃
+
